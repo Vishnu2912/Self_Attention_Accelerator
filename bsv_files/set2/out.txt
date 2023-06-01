@@ -1,0 +1,25 @@
+checking package dependencies
+compiling Acc.bsv
+code generation for mkAcc starts
+Verilog file created: mkAcc.v
+Elaborated module file created: mkAcc.ba
+All packages are up to date.
+checking package dependencies
+All packages are up to date.
+checking package dependencies
+compiling Tb.bsv
+code generation for mkTb starts
+Elaborated module file created: mkTb.ba
+All packages are up to date.
+Bluesim object created: mkTb.{h,o}
+Bluesim object created: mkAcc.{h,o}
+Bluesim object created: model_mkTb.{h,o}
+Simulation shared library created: Tb_bsim.so
+Simulation executable created: Tb_bsim
+Compute Cycles:                   649 cyles
+Z: 
+             61179968              61237376              61294784              61352192              61409600              61467008              61524416              61581824              61639232              61696640              61754048              61811456              61868864              61926272              61983680              62041088 
+             61179968              61237376              61294784              61352192              61409600              61467008              61524416              61581824              61639232              61696640              61754048              61811456              61868864              61926272              61983680              62041088 
+             61179968              61237376              61294784              61352192              61409600              61467008              61524416              61581824              61639232              61696640              61754048              61811456              61868864              61926272              61983680              62041088 
+             61179968              61237376              61294784              61352192              61409600              61467008              61524416              61581824              61639232              61696640              61754048              61811456              61868864              61926272              61983680              62041088 
+output: 01
