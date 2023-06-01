@@ -1,0 +1,29 @@
+checking package dependencies
+compiling Acc.bsv
+code generation for mkAcc starts
+Verilog file created: mkAcc.v
+Elaborated module file created: mkAcc.ba
+All packages are up to date.
+checking package dependencies
+All packages are up to date.
+checking package dependencies
+compiling Tb.bsv
+code generation for mkTb starts
+Elaborated module file created: mkTb.ba
+All packages are up to date.
+Bluesim object created: mkTb.{h,o}
+Bluesim object created: mkAcc.{h,o}
+Bluesim object created: model_mkTb.{h,o}
+Simulation shared library created: Tb_bsim.so
+Simulation executable created: Tb_bsim
+Compute Cycles:                   797 cyles
+Z: 
+             15879200              15909952              15940704              15971456              16002208              16032960              16063712              16094464              16125216              16155968              16186720              16217472              16248224              16278976              16309728              16340480 
+             15879200              15909952              15940704              15971456              16002208              16032960              16063712              16094464              16125216              16155968              16186720              16217472              16248224              16278976              16309728              16340480 
+             15879200              15909952              15940704              15971456              16002208              16032960              16063712              16094464              16125216              16155968              16186720              16217472              16248224              16278976              16309728              16340480 
+             15879200              15909952              15940704              15971456              16002208              16032960              16063712              16094464              16125216              16155968              16186720              16217472              16248224              16278976              16309728              16340480 
+             15879200              15909952              15940704              15971456              16002208              16032960              16063712              16094464              16125216              16155968              16186720              16217472              16248224              16278976              16309728              16340480 
+             15879200              15909952              15940704              15971456              16002208              16032960              16063712              16094464              16125216              16155968              16186720              16217472              16248224              16278976              16309728              16340480 
+             15879200              15909952              15940704              15971456              16002208              16032960              16063712              16094464              16125216              16155968              16186720              16217472              16248224              16278976              16309728              16340480 
+             15879200              15909952              15940704              15971456              16002208              16032960              16063712              16094464              16125216              16155968              16186720              16217472              16248224              16278976              16309728              16340480 
+output: 01
