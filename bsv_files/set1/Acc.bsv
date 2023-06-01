@@ -421,7 +421,6 @@ module mkAcc(Ifc_load_inp);
     cyc_count <= cyc_count + 1;
         if (m5 < fromInteger(in_rows))
         begin
-        //7
         z[countz][0] <= z[countz][0] + soft[countz][m5]*(v[m5][0]);
         z[countz][1] <= z[countz][1] + soft[countz][m5]*(v[m5][1]);
         z[countz][2] <= z[countz][2] + soft[countz][m5]*(v[m5][2]);
